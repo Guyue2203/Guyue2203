@@ -2,7 +2,7 @@
 
 # 你好，我是沽月 👋
 
-### Hi, I'm Guyue [ku˥˥ ɥɛ˥˩]
+### Hi, I'm Guyue /ɡuː ˈjwɛ/
 
 专注 **AI for Science**，关注 **化学信息学、分子数据库与科学机器学习**。
 
