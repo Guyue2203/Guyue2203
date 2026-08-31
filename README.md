@@ -1,57 +1,11 @@
-<div align="center">
+# 你好。
 
-# 你好，我是沽月 👋
+我是 **沽月** ,有时也会使用 **Guyue** <sub>/ɡuː ˈjwɛ/</sub>。
 
-专注 **AI for Science**，关注 **化学信息学、分子数据库与科学机器学习**。
+我目前在中国人民大学化学与生命资源学院学习化学，关注 **AI for Science**，尤其是化学信息学、分子数据库与科学机器学习。
 
-中国人民大学化学专业本科生
+我正在参与构建 [**分子科学 MolScience**](https://github.com/MolScienceX) 项目，这是 ChemAI 团队的一个项目。MolScience 尝试整理、连接和理解分子世界中的数据，也探索机器学习如何帮助我们更好地理解分子，并加速科学发现。
 
-[个人主页](https://guyue.me) · [博客](https://blog.guyue.me) · [邮件](mailto:hi@guyue.me)
+我的主页是 [guyue.me](https://guyue.me) 。有时，我会在 [博客](https://blog.guyue.me) 记录一些学习和思考的东西。
 
-</div>
-
-## 关于我
-
-我正在探索数据与机器学习如何帮助我们理解分子，并加速科学发现。
-
-## 我关注的事
-
-- **化学信息学**
-- **分子数据库**
-- **科学机器学习**
-
-## 组织
-
-### [MolScienceX](https://github.com/MolScienceX)
-
-围绕分子科学、化学数据与开放科研工具的探索。
-
----
-
-<div align="center">
-
-# Hi, I'm Guyue /ɡuː ˈjwɛ/ 👋
-
-Working on **AI for Science**, with a focus on **cheminformatics**, **molecular databases**, and **scientific machine learning**.
-
-Chemistry undergraduate at Renmin University of China
-
-[Website](https://guyue.me) · [Blog](https://blog.guyue.me) · [Email](mailto:hi@guyue.me)
-
-</div>
-
-## About
-
-I explore how data and machine learning can help us understand molecules and accelerate scientific discovery.
-
-## Focus
-
-- **Cheminformatics**
-- **Molecular Databases**
-- **Scientific Machine Learning**
-
-## Organization
-
-### [MolScienceX](https://github.com/MolScienceX)
-
-Exploring molecular science, chemical data, and open tools for research.
+很高兴认识你。
