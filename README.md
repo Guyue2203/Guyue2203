@@ -6,6 +6,6 @@
 
 我正在参与构建 ChemAI 团队的 [**分子科学 MolScience**](https://github.com/MolScienceX) 项目，尝试整理、连接和理解分子数据，也探索机器学习如何帮助我们更好地理解分子，并加速科学发现。
 
-我的主页是 [guyue.me](https://guyue.me) 。有时，我会在 [博客](https://blog.guyue.me) 记录一些学习和思考的东西。
+我的主页是 [guyue.me](https://guyue.me) 。有时，我会在 [blog.guyue.me](https://blog.guyue.me) 记录一些学习和思考的东西。
 
 很高兴认识你。
